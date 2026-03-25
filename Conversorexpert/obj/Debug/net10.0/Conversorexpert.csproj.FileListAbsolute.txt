@@ -1,0 +1,14 @@
+C:\Users\office\Documents\LabDotnet\Conversorexpert\bin\Debug\net10.0\Conversorexpert.exe
+C:\Users\office\Documents\LabDotnet\Conversorexpert\bin\Debug\net10.0\Conversorexpert.deps.json
+C:\Users\office\Documents\LabDotnet\Conversorexpert\bin\Debug\net10.0\Conversorexpert.runtimeconfig.json
+C:\Users\office\Documents\LabDotnet\Conversorexpert\bin\Debug\net10.0\Conversorexpert.dll
+C:\Users\office\Documents\LabDotnet\Conversorexpert\bin\Debug\net10.0\Conversorexpert.pdb
+C:\Users\office\Documents\LabDotnet\Conversorexpert\obj\Debug\net10.0\Conversorexpert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\office\Documents\LabDotnet\Conversorexpert\obj\Debug\net10.0\Conversorexpert.AssemblyInfoInputs.cache
+C:\Users\office\Documents\LabDotnet\Conversorexpert\obj\Debug\net10.0\Conversorexpert.AssemblyInfo.cs
+C:\Users\office\Documents\LabDotnet\Conversorexpert\obj\Debug\net10.0\Conversorexpert.csproj.CoreCompileInputs.cache
+C:\Users\office\Documents\LabDotnet\Conversorexpert\obj\Debug\net10.0\Conversorexpert.dll
+C:\Users\office\Documents\LabDotnet\Conversorexpert\obj\Debug\net10.0\refint\Conversorexpert.dll
+C:\Users\office\Documents\LabDotnet\Conversorexpert\obj\Debug\net10.0\Conversorexpert.pdb
+C:\Users\office\Documents\LabDotnet\Conversorexpert\obj\Debug\net10.0\Conversorexpert.genruntimeconfig.cache
+C:\Users\office\Documents\LabDotnet\Conversorexpert\obj\Debug\net10.0\ref\Conversorexpert.dll
